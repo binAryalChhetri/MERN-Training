@@ -1,0 +1,10 @@
+1. git init
+2. git remote add origin <your_github_url>
+3. optonal // to check // git remote -v
+4. git status
+
+
+
+git hints
+   U - new  files / untracked files
+   A - added // ready to be published/ pushed
