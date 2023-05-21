@@ -1,7 +1,9 @@
-1. git init
-2. git remote add origin <your_github_url>
-3. optonal // to check // git remote -v
-4. git status
+1. We are learning git and github
+
+
+5. git add .
+6. git commit -m "message"
+7. git push
 
 
 
