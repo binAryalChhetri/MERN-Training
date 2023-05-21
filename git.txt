@@ -1,5 +1,5 @@
-1. We are learning git and github
-
+Hello Everyone. We are learning MERN Stack Development.
+Our course duration is 3 months.
 
 5. git add .
 6. git commit -m "message"
