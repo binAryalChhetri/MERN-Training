@@ -1,6 +1,7 @@
-1. We are learning git and github
-
-
+1. git init
+2. git remote add origin ... 
+3. git status
+4.git remote -v
 5. git add .
 6. git commit -m "message"
 7. git push
